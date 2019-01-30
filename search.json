@@ -1,0 +1,20 @@
+{
+  "search":  [
+    {
+      "name": "This is a search example",
+      "url": "/"
+    },
+    {
+      "name": "This is a search example 1",
+      "url": "/"
+    },
+    {
+      "name": "This is a search example 2",
+      "url": "/"
+    },
+    {
+      "name": "This is a search example 3",
+      "url": "/"
+    }
+  ]
+}
